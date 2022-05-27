@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<body>
+    <img  class="images" src="IMG_2554" align = "left" width = 300 height = 225px>
+    <p class="writing"> This was a ceramics project I was really proud of</p>
+
+    <img  class="images" src="IMG_2701" align = "right" width = 300 height = 225px>
+    <p class="writing"> My bread from the bread project. I made this one with regular starter the other bread I made I used milk starter
+</p>
+
+    <img  class="images" src="IMG_0938" align = "left" width = 300 height = 225px>
+    <p class="writing"> This is a ceramics pizza gifft I made</p>
+     <img  class="images" src="Untitled.png" align = "left" width = 300 height = 225px>
+    <p class="writing"> I used CSS to create many things for coding. I made a web page a video game and data analysis, and I also learned how CSS has impacted artificial intelligence. I learned the basic coding skills through snap and MIT. Code.hs then helped me learn HTML web design and python. CSS and AI are both now a huge part of my life everyn day.
+
+</p>
+
+</body>
+
+
